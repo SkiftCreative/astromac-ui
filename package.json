@@ -5,7 +5,7 @@
   "description": "Based on the amazing theme astronomical-ui with some elements taken from the MacOs theme.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZombieSaltine/astromac-ui.git"
+    "url": "https://github.com/SkiftCreative/astromac-ui"
   },
   "license": "MIT",
   "engines": {
@@ -13,8 +13,8 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/ZombieSaltine/astromac-ui/issues"
+    "url": "https://github.com/SkiftCreative/astromac-ui/issues"
   },
-  "homepage": "https://github.com/ZombieSaltine/astromac-ui",
+  "homepage": "https://github.com/SkiftCreative/astromac-ui",
   "_id": "astromac-ui@0.22.5"
 }
